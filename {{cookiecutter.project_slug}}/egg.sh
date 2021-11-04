@@ -5,7 +5,7 @@ fetch_ascii_art(){
     curl \
     'https://ssfy.sh/dev/text-to-ascii-art@d9d0510c/textToAsciiArt?text={{cookiecutter.project_name}}&font=5%20Line%20Oblique' >> .ascii-art
     echo "" >> .ascii-art
-    echo "By: https://github.com/arthurhenrique/cookiecutter-fastapi" >> .ascii-art
+    echo "By: https://github.com/nunenuh/cookiecutter-fastapi" >> .ascii-art
 }
 
 prolado(){

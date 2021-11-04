@@ -2,6 +2,8 @@
 
 In order to create a template to FastAPI projects. :rocket:
 
+this reposistory is fork from https://github.com/arthurhenrique/cookiecutter-fastapi and to my needs.
+
 ## Important
 To use this project you don't need fork it. Just run cookiecutter CLI and voilà!
 
